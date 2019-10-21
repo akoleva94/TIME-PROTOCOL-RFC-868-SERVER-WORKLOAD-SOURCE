@@ -1,0 +1,63 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "UnitFormMain.h"
+#include "System.SysUtils.hpp"
+#include "System.Classes.hpp"
+#include "System.SysUtils.hpp"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TformMain *formMain;
+//---------------------------------------------------------------------------
+__fastcall TformMain::TformMain(TComponent* Owner)
+	: TForm(Owner)
+{
+
+}
+//---------------------------------------------------------------------------
+void __fastcall TformMain::btnSyncClick(TObject *Sender)
+{
+	IdDayTime->Conn;
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TformMain::csClientRead(TObject *Sender, TCustomWinSocket *Socket)
+
+{
+	AnsiString aStr;
+	String uStr = aStr;
+	uStr = Socket->ReceiveText();
+	formMain->memoLog->Lines->Add(uStr);
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TformMain::IdDayTimeWork(TObject *ASender, TWorkMode AWorkMode, __int64 AWorkCount)
+
+{
+	String str;
+	str = IdDayTime->DayTimeStr
+	formMain->memoLog->Lines->Add("work:", str);
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TformMain::IdDayTimeWorkBegin(TObject *ASender, TWorkMode AWorkMode,
+		  __int64 AWorkCountMax)
+{
+	String str;
+	str = IdDayTime->DayTimeStr
+	formMain->memoLog->Lines->Add("workBegin:", str);
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TformMain::IdDayTimeWorkEnd(TObject *ASender, TWorkMode AWorkMode)
+
+{
+	String str;
+	str = IdDayTime->DayTimeStr
+	formMain->memoLog->Lines->Add("workEnd:", str);
+}
+//---------------------------------------------------------------------------
+

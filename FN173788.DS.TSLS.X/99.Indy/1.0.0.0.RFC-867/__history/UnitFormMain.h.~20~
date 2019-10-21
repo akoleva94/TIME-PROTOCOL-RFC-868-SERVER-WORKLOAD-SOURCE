@@ -1,0 +1,39 @@
+//---------------------------------------------------------------------------
+
+#ifndef Unit1H
+#define Unit1H
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+#include <IdDayTimeServer.hpp>
+#include <IdContext.hpp>
+#include <IdBaseComponent.hpp>
+#include <IdComponent.hpp>
+#include <IdCustomTCPServer.hpp>
+#include <System.Win.ScktComp.hpp>
+//---------------------------------------------------------------------------
+class TformMain : public TForm
+{
+__published:	// IDE-managed Components
+	TIdDayTimeServer *IdDayTimeServer;
+	TClientSocket *csClient;
+	TGroupBox *gbSync;
+	TButton *btnSync;
+	TMemo *memoLog;
+	void __fastcall btnSyncClick(TObject *Sender);
+	void __fastcall csClientConnect(TObject *Sender, TCustomWinSocket *Socket);
+	void __fastcall csClientDisconnect(TObject *Sender, TCustomWinSocket *Socket);
+	void __fastcall csClientError(TObject *Sender, TCustomWinSocket *Socket, TErrorEvent ErrorEvent,
+          int &ErrorCode);
+	void __fastcall csClientRead(TObject *Sender, TCustomWinSocket *Socket);
+private:	// User declarations
+public:		// User declarations
+	__fastcall TformMain(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TformMain *formMain;
+//---------------------------------------------------------------------------
+#endif
+

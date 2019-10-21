@@ -1,0 +1,66 @@
+*********************************************************************************
+LIST OF PROJECTS
+*********************************************************************************
+Project Group 0003/C++11 General Testbed
+*********************************************************************************
+Each project has one of the next type of status:
+	Idea
+	Under development
+	Uncompleted
+	Completed
+*********************************************************************************
+
+0003.0001 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	StandardAlgorithms
+Description
+	C++ Standard Algorithms with David Millington - CodeRageXI
+	C++ Lambdas
+	[https://www.youtube.com/watch?v=yrKXEqk4IxQ&list=PLwUPJvR9mZHhduLqFX352uV1APPIRAu1h&index=7]
+Status:	Completed
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0003.0002 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	Chrono
+Description
+	C++11 Chrono Library
+	std::chrono::system_clock
+	std::chrono::system_clock::period
+	std::chrono::system_clock::now()
+	std::chrono::milliseconds sleep_dur()
+	std::chrono::microseconds
+	std::chrono::duration_cast
+	std::this_thread::sleep_for()
+	[https://www.youtube.com/watch?v=M13otPgOePs]
+Status:	Completed
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0003.0100 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	CppSuperCalculator
+Description
+	FireMonkey Multi-Device Application. 
+	FireMonkey Styles.
+	Separation of Logic and UI by Interfaces.
+	[https://community.embarcadero.com/blogs/entry/learn-to-program-with-c-builder-2-building-and-debugging]
+	[https://community.embarcadero.com/blogs/entry/learn-to-program-with-c-builder-3]
+	[https://community.embarcadero.com/blogs/entry/learn-to-program-with-c-builder-4-real-code-and-useful-c]
+	[https://community.embarcadero.com/blogs/entry/learn-to-program-with-c-builder-5-operators-and-final-application]
+Status:	Uncompleted
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0003.0101 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	InfixToPostfixConvertor
+Description
+	Another branch of the Root Project, based on Reverse Polish Notation (Postfix Expressions Notation).
+	Digits entered separately form value.
+	Operation (+, -, *, /) add the value to the infix expression. The so formed infix expression is converted to postfix.
+	After pressing of = postfix expression is evaluated and result is displayed in the value field.
+	The digit entered after = clears both expressions and the iteration starts from the beginning.
+Root Project
+	CppSuperCalculator
+	[https://community.embarcadero.com/blogs/entry/learn-to-program-with-c-builder-2-building-and-debugging]
+	[https://community.embarcadero.com/blogs/entry/learn-to-program-with-c-builder-3]
+	[https://community.embarcadero.com/blogs/entry/learn-to-program-with-c-builder-4-real-code-and-useful-c]
+	[https://community.embarcadero.com/blogs/entry/learn-to-program-with-c-builder-5-operators-and-final-application]
+Status:	Under development
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

@@ -1,0 +1,18 @@
+@ECHO OFF
+
+ECHO COPY Half-open TCP Connection Test
+PAUSE
+
+COPY ..\Win32\Debug\HOT.exe LDM\MASTER
+COPY ..\Win32\Debug\HOT.exe LDM\SLAVE1
+COPY ..\Win32\Debug\HOT.exe LDM\SLAVE2
+COPY ..\Win32\Debug\HOT.exe LDM\SLAVE3
+COPY ..\Win32\Debug\HOT.exe LDM\SLAVE4
+COPY ..\Win32\Debug\HOT.exe LDM\TARGET
+
+COPY ..\Win32\Debug\HOT.exe RDM\MASTER
+COPY ..\Win32\Debug\HOT.exe RDM\SLAVE1
+COPY ..\Win32\Debug\HOT.exe RDM\SLAVE2
+COPY ..\Win32\Debug\HOT.exe RDM\SLAVE3
+COPY ..\Win32\Debug\HOT.exe RDM\SLAVE4
+COPY ..\Win32\Debug\HOT.exe RDM\TARGET

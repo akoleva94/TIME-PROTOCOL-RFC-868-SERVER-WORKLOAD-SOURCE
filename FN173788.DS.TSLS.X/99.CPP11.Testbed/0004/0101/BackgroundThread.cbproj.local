@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.070,C:\My_COURSES\DS.CD\CBuilder\Test1.2.BackgroundThread\XE3\RELEASE\BackgroundThreadPCH2.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.837,C:\Z.Qu\0004\Test1.2.BackgroundThread\XE\RELEASE.Cpp11\ThreadStream.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.344,C:\My_COURSES\DS.CD\CBuilder\Test1.2.BackgroundThread\XE3\RELEASE\BackgroundThread.cpp=C:\My_COURSES\DS.CD\CBuilder\Test1.2.BackgroundThread\XE3\RELEASE\ThreadStream.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.250,C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.h=C:\My_COURSES\DS.CD\CBuilder\Test1.2.BackgroundThread\XE3\RELEASE\UnitMain.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.129,C:\Users\Milen\Documents\RAD Studio\Projects\Unit2.h=C:\My_COURSES\DS.CD\CBuilder\Test1.2.BackgroundThread\XE3\RELEASE\BackgroundThread.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.617,C:\My_COURSES\DS.CD\CBuilder\Test1.2.BackgroundThread\XE3\RELEASE\Project1.cbproj=C:\My_COURSES\DS.CD\CBuilder\Test1.2.BackgroundThread\XE3\RELEASE\BackgroundThread.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.439,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.129,C:\Users\Milen\Documents\RAD Studio\Projects\Unit2.cpp=C:\My_COURSES\DS.CD\CBuilder\Test1.2.BackgroundThread\XE3\RELEASE\BackgroundThread.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.344,C:\My_COURSES\DS.CD\CBuilder\Test1.2.BackgroundThread\XE3\RELEASE\BackgroundThread.h=C:\My_COURSES\DS.CD\CBuilder\Test1.2.BackgroundThread\XE3\RELEASE\ThreadStream.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.250,C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.dfm=C:\My_COURSES\DS.CD\CBuilder\Test1.2.BackgroundThread\XE3\RELEASE\UnitMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.250,C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp=C:\My_COURSES\DS.CD\CBuilder\Test1.2.BackgroundThread\XE3\RELEASE\UnitMain.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.595,C:\My_COURSES\DS.CD\CBuilder\Test1.2.BackgroundThread\XE3\RELEASE\Project1PCH1.h=C:\My_COURSES\DS.CD\CBuilder\Test1.2.BackgroundThread\XE3\RELEASE\BackgroundThreadPCH2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.643,C:\Users\Milen\Documents\RAD Studio\Projects\Project1.cbproj=C:\My_COURSES\DS.CD\CBuilder\Test1.2.BackgroundThread\XE3\RELEASE\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,C:\Users\Milen\Documents\RAD Studio\Projects\Project1PCH1.h=C:\My_COURSES\DS.CD\CBuilder\Test1.2.BackgroundThread\XE3\RELEASE\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.271,=C:\Users\Milen\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.326,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.312,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="BackgroundThread.cpp"/>
+    <File Path="UnitMain.cpp"/>
+    <File Path="UnitMain.cpp"/>
+    <File Path="UnitMain.dfm"/>
+    <File Path="UnitMain.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

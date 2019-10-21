@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.081,C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\99.Indy\1.0.0.0.RFC-868\UnitFormMain.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.081,C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\99.Indy\1.0.0.0.RFC-868\UnitFormMain.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.278,=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.949,=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.081,C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\99.Indy\1.0.0.0.RFC-868\UnitFormMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.643,C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\99.Indy\1.0.0.0.RFC-868\RFC-868.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.249,=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.503,=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

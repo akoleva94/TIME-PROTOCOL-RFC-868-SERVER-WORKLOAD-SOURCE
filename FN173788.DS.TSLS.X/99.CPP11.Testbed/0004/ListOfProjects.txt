@@ -1,0 +1,215 @@
+*********************************************************************************
+LIST OF PROJECTS
+*********************************************************************************
+Project Group 0004/C++11 Threads Testbed
+*********************************************************************************
+Each project has one of the next type of status:
+	Idea
+	Under development
+	Uncompleted
+	Completed
+*********************************************************************************
+
+0004.0001 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	ThreadsStart
+Description
+	C++11 Thread Start classic.
+	std::join()
+	[http://baptiste-wicht.com/posts/2012/03/cpp11-concurrency-part1-start-threads.html]
+Status:	Completed
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0004.0002 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	ThreadsInterleaving
+Description
+	C++11 Multiple Threads Start Classic.
+	Demonstrates threads interleaving
+	std::join()
+	std::this_thread::get_id()
+	[http://baptiste-wicht.com/posts/2012/03/cpp11-concurrency-part1-start-threads.html]
+Status:	Completed
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0004.0003 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	ThreadsLambda
+Description
+	C++11 Multiple Threads Start with Lambda
+	Demonstrates threads interleaving
+	std::join()
+	std::this_thread::get_id()
+	[http://baptiste-wicht.com/posts/2012/03/cpp11-concurrency-part1-start-threads.html]
+Status:	Completed
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0004.0004 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	ThreadsLockGuard
+Description
+	C++11 Protected Shared Data with Mutexes and Automatic Management of Locks.
+	std::mutex
+	std::lock_guard<>
+	[http://baptiste-wicht.com/posts/2012/03/cp11-concurrency-tutorial-part-2-protect-shared-data.html]
+Status:	Completed
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0004.0005 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	ThreadsAtomic
+Description
+	C++11 Protected Shared Data with Atomic Types.
+	std::atomic<>
+	[http://baptiste-wicht.com/posts/2012/07/c11-concurrency-tutorial-part-4-atomic-type.html]
+Status:	Completed
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0004.0006 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	ThreadsDataRace
+Description
+	Data Race and use of Mutex to Synchronize Data Access.
+	std::mutex
+	std::lock_guard<>
+	std::cout.sync_with_stdio(true)
+	[https://www.youtube.com/watch?v=3ZxZPeXPaM4&index=3&list=PL7jWCmDtlfy_zqu3D3xJ_B3WrRJKjdbZH]
+Status:	Completed
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0004.0007 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	AsyncTask
+Description
+	High-Level Interface
+	std::asynch()
+	std::future<>
+	[Gregoire, Marc; Solter, Nicholas A.; Kleper, Scott J.. Professional C++ (p. 827). Wiley. Kindle Edition.]
+Status:	Completed
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0004.0008 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	UniqueLock
+Description
+	Transfer of data buffer between two threads by unique_lock
+	explicit conversion operator
+	std::unique_lock<>
+	std::defer_lock
+	std::lock()
+	std::ref()
+	[http://en.cppreference.com/w/cpp/thread/unique_lock]
+Status:	Completed
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0004.0009 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	CallOnce
+Description
+	Calling a function only once no matter the number of threads that are used.
+	std::once_flag
+	std::call_once()
+	[http://baptiste-wicht.com/posts/2012/04/c11-concurrency-tutorial-advanced-locking-and-condition-variables.html]
+Status:	Completed
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0004.0010 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	ConditionVariable
+Description
+	Synchronization by condition_variable class.
+	Good example of threads serialization on a std::condition_variable.
+	std::unique_lock<>
+	std::condition_variable
+	std::condition_variable::wait(std::unique_lock<std::mutex>&)
+	std::condition_variable::notify_all()
+	[http://en.cppreference.com/w/cpp/thread/condition_variable]
+Status:	Completed
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0004.0011 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	InterThreadCommunication
+Description
+	Could be used for implementation of CSP Proto-Channel.
+	Main Thread (Sender) === Proto-Channel ==> Worker (Receiver)
+	The condition_variable is used to facilitate inter-thread communication.
+	std::condition_variable::wait(std::unique_lock<std::mutex>&, Predicate)
+	std::condition_variable::notify_one()
+	[http://en.cppreference.com/w/cpp/thread/condition_variable]
+	[http://en.cppreference.com/w/cpp/thread/condition_variable/wait]
+Status:	Completed
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0004.0012 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	ConditionVariableSync
+Description
+	Explore uncountability of std::condition_variable.
+Status:	Completed
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0004.0013 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	SharedRNG
+Description
+	Thread-safe Random Number Generator.
+	Randomization of the random_engine
+	- with random_device()
+		std::random_device random_device;
+		std::default_random_engine random_engine(random_device());
+	Not apropriate because of random_device.entropy() is 0.
+	- with std::chrono::system_clock
+		unsigned seed = std::chrono::system_clock::now().time_since_epoch().count();
+		static std::default_random_engine random_engine(seed);
+	Gives good result.
+Status:	Completed
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0004.0014 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	WaitOnForMultipleEvents
+Description
+	Explore technique to wait on std::condition_variable for multiple events.
+	This is going to be used in csp::alt() implementation.
+
+	The technique is based on using Predicate, second parameter of std::wait().
+	Calling of std::wait(lock, Predicate) is equivavelnt to
+	while (!Predicate())
+	{
+		wait(lock);
+	}
+	i.e. the Predicate is checked before std::wait(lock)
+	http://en.cppreference.com/w/cpp/thread/condition_variable/wait
+	The Predicate itself is implemented as lambda.
+Status:	Completed
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0004.0015 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	WaitOnForMultipleEvents_D
+Description
+	The Project 0004.0014 WaitOnForMultipleEvents extended with
+	distingushing of dispatching desciplines
+	- by guard place;
+	- non-deterministic (uniform random).
+Status:	Completed
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0004.0101 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	BackgroundThread
+Description
+	Преработена тема РС::ПУ1.2
+	Deferred thread start.
+	Passing parameters to a thread.
+	Syngle sycle execution.
+	std::thread
+	std::join()
+	std::unique_ptr<>
+	std::chrono::high_resolution_clock
+	[C:\My_COURSES\DS.CD\CBuilder\Test1.2.BackgroundThread\XE\RELEASE.Cpp11]
+Status:	Completed
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0004.0102 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project Name
+	ParMax
+Description
+	Преработен пример ПКС::x15.PARMAX
+	Поддържа три режима: 
+	- последователен;
+	- паралелен с 2 работни нишки;
+	- паралелен с 4 работни нишки.
+	Може да се задават до 8 логическите процесора за разпределяне.
+	std::thread
+	std::future<>
+	std::future::get()
+	std::chrono::high_resolution_clock
+	[C:\My_COURSES\PCS.CD\PU\x15.PARMAX\XE.Cpp11]
+Status:	Completed
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

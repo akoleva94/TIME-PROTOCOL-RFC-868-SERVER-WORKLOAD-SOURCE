@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.832,=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.214,=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.816,C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\My_COURSES\PCS.CD\PU\x15.PARMAX\XE\ParMax.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.785,C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\My_COURSES\PCS.CD\PU\x15.PARMAX\XE\UnitMain.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.203,=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.349,=C:\My_COURSES\PCS.CD\PU\x15.PARMAX\XE\UnitThread1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.758,C:\Z.Qu\0004\x15.PARMAX\UnitThread0.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.785,C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\My_COURSES\PCS.CD\PU\x15.PARMAX\XE\UnitMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.872,C:\Z.Qu\0004\x15.PARMAX\UnitThread1.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.997,=C:\My_COURSES\PCS.CD\PU\x15.PARMAX\XE\UnitMain.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.289,=C:\My_COURSES\PCS.CD\PU\x15.PARMAX\XE\UnitThread0.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.785,C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\My_COURSES\PCS.CD\PU\x15.PARMAX\XE\UnitMain.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.964,C:\My_COURSES\PCS.CD\PU\x15.PARMAX\XE\UnitMain.cpp=</Transaction>
+  </Transactions>
+</BorlandProject>

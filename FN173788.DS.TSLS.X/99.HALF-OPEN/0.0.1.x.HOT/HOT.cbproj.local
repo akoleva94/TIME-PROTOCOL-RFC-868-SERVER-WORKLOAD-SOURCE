@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.503,=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.510,=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.261,C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\99.HALF-OPEN\0.0.1.x.HOT\UnitDMChannels.h=C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\99.HALF-OPEN\0.0.1.x.HOT\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.949,=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.038,=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\99.HALF-OPEN\0.0.1.x.HOT\UnitFormMain.dfm=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.632,=C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\99.HALF-OPEN\0.0.1.x.HOT\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\99.HALF-OPEN\0.0.1.x.HOT\UnitFormMain.cpp=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.261,C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\99.HALF-OPEN\0.0.1.x.HOT\UnitDMChannels.cpp=C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\99.HALF-OPEN\0.0.1.x.HOT\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\99.HALF-OPEN\0.0.1.x.HOT\UnitFormMain.h=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.261,C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\99.HALF-OPEN\0.0.1.x.HOT\UnitDMChannels.dfm=C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\99.HALF-OPEN\0.0.1.x.HOT\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.470,C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\99.HALF-OPEN\0.0.1.x.HOT\HOT.cbproj=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="HOT.cpp"/>
+    <File Path="UnitFormMain.cpp"/>
+    <File Path="UnitFormMain.cpp"/>
+    <File Path="UnitFormMain.dfm"/>
+    <File Path="UnitFormMain.h"/>
+    <File Path="UnitDMChannels.cpp"/>
+    <File Path="UnitDMChannels.cpp"/>
+    <File Path="UnitDMChannels.dfm"/>
+    <File Path="UnitDMChannels.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

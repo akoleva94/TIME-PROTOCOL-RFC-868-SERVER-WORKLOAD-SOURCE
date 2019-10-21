@@ -1,0 +1,69 @@
+object formMain: TformMain
+  Left = 0
+  Top = 0
+  Caption = 'DayTime(RFC-867) Server - Indy Realization'
+  ClientHeight = 273
+  ClientWidth = 411
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object gbSync: TGroupBox
+    Left = 0
+    Top = 0
+    Width = 411
+    Height = 105
+    Align = alTop
+    TabOrder = 0
+    ExplicitLeft = 16
+    ExplicitTop = 16
+    ExplicitWidth = 185
+    object btnSync: TButton
+      Left = 2
+      Top = 15
+      Width = 407
+      Height = 88
+      Align = alClient
+      Caption = 'S Y N C'
+      TabOrder = 0
+      ExplicitLeft = 128
+      ExplicitTop = 32
+      ExplicitWidth = 75
+      ExplicitHeight = 25
+    end
+  end
+  object Memo1: TMemo
+    Left = 0
+    Top = 105
+    Width = 411
+    Height = 168
+    Align = alClient
+    Lines.Strings = (
+      'Memo1')
+    TabOrder = 1
+    ExplicitLeft = 8
+    ExplicitTop = 111
+    ExplicitWidth = 185
+    ExplicitHeight = 89
+  end
+  object IdDayTimeServer: TIdDayTimeServer
+    Active = True
+    Bindings = <>
+    TimeZone = 'EST'
+    Left = 40
+    Top = 216
+  end
+  object csClientSocket: TClientSocket
+    Active = False
+    Address = '127.0.0.1'
+    ClientType = ctNonBlocking
+    Port = 13
+    Left = 136
+    Top = 216
+  end
+end

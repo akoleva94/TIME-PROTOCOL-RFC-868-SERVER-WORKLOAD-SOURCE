@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.828,C:\Users\Milen\Documents\RAD Studio\Projects\Unit2.dfm=C:\My_COURSES\DS.CD\CBuilder\Test4.ProjectTimeProtocol_EXTENDED\XE3\RELEASE\UnitFormSockets.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.328,C:\DIPLOM.PRJ\FN163704.DS.RFC868\SRC\3.Syn.Extended.TThread\Unit1.h=C:\DIPLOM.PRJ\FN163704.DS.RFC868\SRC\3.Syn.Extended.TThread\UnitWorkingThread.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.828,C:\Users\Milen\Documents\RAD Studio\Projects\Unit2.cpp=C:\My_COURSES\DS.CD\CBuilder\Test4.ProjectTimeProtocol_EXTENDED\XE3\RELEASE\UnitFormSockets.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.911,=C:\Users\Milen\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.097,=C:\Users\Milen\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.646,=C:\Users\Milen\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.133,=C:\Users\Milen\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.611,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.215,=C:\Users\Milen\Documents\RAD Studio\Projects\itemDetail.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.845,=C:\Users\Milen\Documents\RAD Studio\Projects\groupedItems.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.153,=C:\Users\Milen\Documents\RAD Studio\Projects\groupedItems.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.828,C:\Users\Milen\Documents\RAD Studio\Projects\Unit2.h=C:\My_COURSES\DS.CD\CBuilder\Test4.ProjectTimeProtocol_EXTENDED\XE3\RELEASE\UnitFormSockets.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.548,C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.h=C:\My_COURSES\DS.CD\CBuilder\Test4.ProjectTimeProtocol_EXTENDED\XE3\RELEASE\UnitFormMain.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.734,C:\DIPLOM.PRJ\FN163704.DS.TP\SRC\1.Syn.Basic\Syn.Basic.cbproj=C:\DIPLOM.PRJ\FN163704.DS.TP\SRC\1.Syn.Basic\TimeProtocol.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.887,C:\DIPLOM.PRJ\FN163704.DS.RFC868\SRC\3.Syn.Extended.TThread\Syn.Extended.cbproj=C:\DIPLOM.PRJ\FN163704.DS.RFC868\SRC\3.Syn.Extended.TThread\Syn.Extended.TThread.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.694,=C:\Users\Milen\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.548,C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.dfm=C:\My_COURSES\DS.CD\CBuilder\Test4.ProjectTimeProtocol_EXTENDED\XE3\RELEASE\UnitFormMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.622,C:\DIPLOM.PRJ\FN163704.DS.RFC868\SRC\2.Syn.Extended\Syn.Extended.cbproj=C:\DIPLOM.PRJ\FN163704.DS.RFC868\SRC\2.Syn.Extended\Syn.Basic.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.983,C:\My_COURSES\DS.CD\CBuilder\__TEST.TEMPLATES\Test4.ProjectTimeProtocol_TEMPLATE\XE3\TEMPLATE\TimeProtocolPCH1.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.331,C:\Users\Milen\Documents\RAD Studio\Projects\Project1.cbproj=C:\My_COURSES\DS.CD\CBuilder\Test4.ProjectTimeProtocol_EXTENDED\XE3\RELEASE\TimeProtocol.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.489,=C:\Users\Milen\Documents\RAD Studio\Projects\splitItemDetail.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.328,C:\DIPLOM.PRJ\FN163704.DS.RFC868\SRC\3.Syn.Extended.TThread\Unit1.cpp=C:\DIPLOM.PRJ\FN163704.DS.RFC868\SRC\3.Syn.Extended.TThread\UnitWorkingThread.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.258,=C:\DIPLOM.PRJ\FN163704.DS.RFC868\SRC\3.Syn.Extended.TThread\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.284,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.393,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.548,C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp=C:\My_COURSES\DS.CD\CBuilder\Test4.ProjectTimeProtocol_EXTENDED\XE3\RELEASE\UnitFormMain.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.972,C:\Users\Milen\Documents\RAD Studio\Projects\Project1PCH1.h=C:\My_COURSES\DS.CD\CBuilder\Test4.ProjectTimeProtocol_EXTENDED\XE3\RELEASE\TimeProtocolPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.750,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.955,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.326,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.693,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

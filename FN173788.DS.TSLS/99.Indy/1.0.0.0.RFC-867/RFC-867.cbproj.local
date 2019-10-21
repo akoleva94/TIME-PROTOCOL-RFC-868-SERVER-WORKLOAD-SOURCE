@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.561,C:\Users\Adelina\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Adelina Koleva\DIPLOMNO PROEKTIRANE 2017-2018\SRC\INDY LIBRARY\Indy\UnitFormMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.391,=C:\Users\Adelina\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.560,=C:\Users\Adelina\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.764,D:\Adelina Koleva\DIPLOMNO PROEKTIRANE 2017-2018\SRC\INDY LIBRARY\Indy\Project1PCH1.h=D:\Adelina Koleva\DIPLOMNO PROEKTIRANE 2017-2018\SRC\INDY LIBRARY\Indy\IndyPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,C:\Users\Adelina\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\Adelina Koleva\DIPLOMNO PROEKTIRANE 2017-2018\SRC\INDY LIBRARY\Indy\Indy.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\99.Indy\1.0.0.0.RFC-867\Indy.cbproj=C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\99.Indy\1.0.0.0.RFC-867\RFC-867.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.545,=C:\Users\Adelina\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.815,=C:\Users\Adelina\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.617,C:\Users\Adelina\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Adelina Koleva\DIPLOMNO PROEKTIRANE 2017-2018\SRC\INDY LIBRARY\Indy\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.561,C:\Users\Adelina\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\Adelina Koleva\DIPLOMNO PROEKTIRANE 2017-2018\SRC\INDY LIBRARY\Indy\UnitFormMain.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.877,C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\99.Indy\1.0.0.0.TCPServer\IndyPCH1.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.561,C:\Users\Adelina\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\Adelina Koleva\DIPLOMNO PROEKTIRANE 2017-2018\SRC\INDY LIBRARY\Indy\UnitFormMain.h</Transaction>
+  </Transactions>
+</BorlandProject>

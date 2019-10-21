@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.503,=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.872,=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.725,C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\0.1.x.x.TSLS\UnitDMSockets.dfm=C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\0.1.x.x.TSLS\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.725,C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\0.1.x.x.TSLS\UnitDMSockets.h=C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\0.1.x.x.TSLS\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.949,=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.488,=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.733,C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\0.1.x.x.TSLS\Unit1.h=C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\0.1.x.x.TSLS\UnitUtils.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.619,C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\0.1.x.x.TSLS\TSLS.cbproj=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.725,C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\0.1.x.x.TSLS\UnitDMSockets.cpp=C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\0.1.x.x.TSLS\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.842,C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\0.1.x.x.TSLS\UnitFormMain.cpp=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.842,C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\0.1.x.x.TSLS\UnitFormMain.h=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.733,C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\0.1.x.x.TSLS\Unit1.cpp=C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\0.1.x.x.TSLS\UnitUtils.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.842,C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\0.1.x.x.TSLS\UnitFormMain.dfm=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.195,=C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\0.1.x.x.TSLS\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.518,=C:\DIPLOM.PRJ\FN173788.DS.TSLS\SRC\0.1.x.x.TSLS\Unit1.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="TSLS.cpp"/>
+    <File Path="UnitFormMain.cpp"/>
+    <File Path="UnitFormMain.cpp"/>
+    <File Path="UnitFormMain.dfm"/>
+    <File Path="UnitFormMain.h"/>
+    <File Path="UnitDMSockets.cpp"/>
+    <File Path="UnitDMSockets.cpp"/>
+    <File Path="UnitDMSockets.dfm"/>
+    <File Path="UnitDMSockets.h"/>
+    <File Path="UnitUtils.cpp"/>
+    <File Path="UnitUtils.cpp"/>
+    <File Path="UnitUtils.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

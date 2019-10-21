@@ -1,0 +1,88 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 264
+  ClientWidth = 443
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object lblServerMsg: TLabel
+    Left = 168
+    Top = 63
+    Width = 100
+    Height = 20
+    Caption = 'Server Message'
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -16
+    Font.Name = 'Arial Narrow'
+    Font.Style = []
+    ParentFont = False
+  end
+  object lblClientMsg: TLabel
+    Left = 176
+    Top = 147
+    Width = 93
+    Height = 20
+    Caption = 'Client Message'
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -16
+    Font.Name = 'Arial Narrow'
+    Font.Style = []
+    ParentFont = False
+  end
+  object editSentMSg: TEdit
+    Left = 140
+    Top = 89
+    Width = 165
+    Height = 21
+    TabOrder = 0
+  end
+  object editClientMsg: TEdit
+    Left = 140
+    Top = 173
+    Width = 165
+    Height = 21
+    TabOrder = 1
+  end
+  object btnActivate: TButton
+    Left = 140
+    Top = 32
+    Width = 165
+    Height = 25
+    Caption = 'Activate'
+    TabOrder = 2
+    OnClick = btnActivateClick
+  end
+  object btnDeactivate: TButton
+    Left = 140
+    Top = 203
+    Width = 165
+    Height = 25
+    Caption = 'Deactivate'
+    TabOrder = 3
+    OnClick = btnDeactivateClick
+  end
+  object IdDayTimeServer1: TIdDayTimeServer
+    OnStatus = IdDayTimeServer1Status
+    Bindings = <>
+    OnConnect = IdDayTimeServer1Connect
+    TimeZone = 'EST'
+    Left = 48
+    Top = 200
+  end
+  object IdTCPServer1: TIdTCPServer
+    Bindings = <>
+    DefaultPort = 0
+    Left = 32
+    Top = 120
+  end
+end
